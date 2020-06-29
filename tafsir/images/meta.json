@@ -1,0 +1,19 @@
+[{
+  "file": "image-1",
+  "dark": false
+}, {
+  "file": "image-2",
+  "dark": false
+}, {
+  "file": "image-3",
+  "dark": false
+}, {
+  "file": "image-4",
+  "dark": true
+}, {
+  "file": "image-5",
+  "dark": false
+}, {
+  "file": "image-6",
+  "dark": true
+}]
